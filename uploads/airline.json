@@ -1,0 +1,162 @@
+[
+  {
+    "Airport": {
+      "Code": "SEA",
+      "Name": "Seattle, WA: Seattle/Tacoma International"
+    },
+    "Time": {
+      "Label": "2016/01",
+      "Month": 1,
+      "Month Name": "January",
+      "Year": 2016
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 357,
+        "Late Aircraft": 513,
+        "National Aviation System": 351,
+        "Security": 2,
+        "Weather": 50
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Delta Air Lines Inc.,Frontier Airlines Inc.,Hawaiian Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Virgin America,Southwest Airlines Co.",
+        "Total": 10
+      },
+      "Flights": {
+        "Cancelled": 104,
+        "Delayed": 1274,
+        "Diverted": 31,
+        "On Time": 8330,
+        "Total": 9739
+      },
+      "Minutes Delayed": {
+        "Carrier": 25461,
+        "Late Aircraft": 32693,
+        "National Aviation System": 11466,
+        "Security": 73,
+        "Total": 74017,
+        "Weather": 4324
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SFO",
+      "Name": "San Francisco, CA: San Francisco International"
+    },
+    "Time": {
+      "Label": "2016/01",
+      "Month": 1,
+      "Month Name": "January",
+      "Year": 2016
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 560,
+        "Late Aircraft": 947,
+        "National Aviation System": 2194,
+        "Security": 2,
+        "Weather": 119
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Delta Air Lines Inc.,Frontier Airlines Inc.,Hawaiian Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Virgin America,Southwest Airlines Co.",
+        "Total": 10
+      },
+      "Flights": {
+        "Cancelled": 449,
+        "Delayed": 3825,
+        "Diverted": 20,
+        "On Time": 8912,
+        "Total": 13206
+      },
+      "Minutes Delayed": {
+        "Carrier": 43641,
+        "Late Aircraft": 72557,
+        "National Aviation System": 153416,
+        "Security": 66,
+        "Total": 278610,
+        "Weather": 8930
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "SLC",
+      "Name": "Salt Lake City, UT: Salt Lake City International"
+    },
+    "Time": {
+      "Label": "2016/01",
+      "Month": 1,
+      "Month Name": "January",
+      "Year": 2016
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 338,
+        "Late Aircraft": 540,
+        "National Aviation System": 253,
+        "Security": 3,
+        "Weather": 38
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Delta Air Lines Inc.,Frontier Airlines Inc.,SkyWest Airlines Inc.,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 8
+      },
+      "Flights": {
+        "Cancelled": 84,
+        "Delayed": 1175,
+        "Diverted": 14,
+        "On Time": 7426,
+        "Total": 8699
+      },
+      "Minutes Delayed": {
+        "Carrier": 32066,
+        "Late Aircraft": 33682,
+        "National Aviation System": 8057,
+        "Security": 57,
+        "Total": 76978,
+        "Weather": 3116
+      }
+    }
+  },
+  {
+    "Airport": {
+      "Code": "TPA",
+      "Name": "Tampa, FL: Tampa International"
+    },
+    "Time": {
+      "Label": "2016/01",
+      "Month": 1,
+      "Month Name": "January",
+      "Year": 2016
+    },
+    "Statistics": {
+      "# of Delays": {
+        "Carrier": 410,
+        "Late Aircraft": 342,
+        "National Aviation System": 312,
+        "Security": 2,
+        "Weather": 27
+      },
+      "Carriers": {
+        "Names": "American Airlines Inc.,Alaska Airlines Inc.,JetBlue Airways,Delta Air Lines Inc.,Frontier Airlines Inc.,Spirit Air Lines,United Air Lines Inc.,Southwest Airlines Co.",
+        "Total": 8
+      },
+      "Flights": {
+        "Cancelled": 146,
+        "Delayed": 1095,
+        "Diverted": 7,
+        "On Time": 4748,
+        "Total": 5996
+      },
+      "Minutes Delayed": {
+        "Carrier": 22557,
+        "Late Aircraft": 21164,
+        "National Aviation System": 11423,
+        "Security": 37,
+        "Total": 57774,
+        "Weather": 2593
+      }
+    }
+  }
+]
